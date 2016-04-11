@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FILTER_Small
+D Filtre EMI
+K EMI FB
+$ENDCMP
+#
+#End Doc Library
